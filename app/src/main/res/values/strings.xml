@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DermaFace</string>
+    <string name="logo">DermaFace Logo</string>
+    <string name="login_image">Login Image</string>
+    <string name="login_instructions">Silahkan masuk dengan akun Google</string>
+    <string name="btn_login">Lanjutkan dengan Google</string>
+    <string name="hello_user">Hello, Pengguna</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="menu_icon">Menu Icon</string>
+    <string name="scan_icon">scan icon</string>
+    <string name="scan">Pindai</string>
+    <string name="scan_instructions">Klik untuk memulai pemindaian</string>
+    <string name="article">Artikel</string>
+    <string name="title">Judul</string>
+    <string name="article_image">Gambar Artikel</string>
+    <string name="desc">Deskripsi</string>
+    <string name="scan_history">Riwayat Pemindaian</string>
+    <string name="exit">Keluar</string>
+    <string name="back">Kembali</string>
+    <string name="article_title">Artikel</string>
+    <string name="scan_result">Hasil Pemindaian</string>
+    <string name="diagnosis_result">Hasil Prediksi:</string>
+    <string name="diagnosis_result_text">Hasil prediksi disini</string>
+    <string name="treatment_recommendation">Rekomendasi Perawatan: </string>
+    <string name="treatment_recommendation_result">Saran Rekomendasi Perawatan Disini</string>
+    <string name="save">Simpan Hasil</string>
+    <string name="result_image">Gambar Hasil Pindai</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Tanggal Pemindaian: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_source">Pilih Sumber Gambar</string>
+    <string name="camera_icon">Ikon Kamera</string>
+    <string name="take_camera">Ambil Dari Kamera</string>
+    <string name="gallery_icon">Ikon Galeri</string>
+    <string name="choose_gallery">Pilih Dari Galeri</string>
+    <string name="client_id">367369821003-s76ttg1nh2rqvtcr30qnpr1vleknnl0b.apps.googleusercontent.com</string>
+    <string name="scan_image">scan image</string>
+</resources>
